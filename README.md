@@ -2,6 +2,8 @@
 
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote Base](https://remotebase.io)
 
+[![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remotebase/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remotebase)
+
 ## Install
 
 Ensure you have [Node.js](https://nodejs.org) version 4+ installed. Then run the following:
