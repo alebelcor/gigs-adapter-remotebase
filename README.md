@@ -2,6 +2,7 @@
 
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote Base](https://remotebase.io)
 
+[![npm version](https://img.shields.io/npm/v/gigs-adapter-remotebase.svg)](https://npmjs.org/package/gigs-adapter-remotebase)
 [![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remotebase/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remotebase)
 [![Test coverage](https://img.shields.io/coveralls/alebelcor/gigs-adapter-remotebase.svg)](https://coveralls.io/github/alebelcor/gigs-adapter-remotebase)
 
