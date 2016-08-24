@@ -3,6 +3,7 @@
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote Base](https://remotebase.io)
 
 [![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remotebase/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remotebase)
+[![Test coverage](https://img.shields.io/coveralls/alebelcor/gigs-adapter-remotebase.svg)](https://coveralls.io/github/alebelcor/gigs-adapter-remotebase)
 
 ## Install
 
