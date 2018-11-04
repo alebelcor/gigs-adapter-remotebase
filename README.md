@@ -1,3 +1,9 @@
+# Deprecated
+
+RemoteBase has shut down. This package no longer works.
+
+- - -
+
 # gigs-adapter-remotebase
 
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote Base](https://remotebase.io)
