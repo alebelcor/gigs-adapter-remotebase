@@ -2,7 +2,7 @@
 
 ![No Maintenance Intended](https://img.shields.io/maintenance/no/2018.svg)
 
-RemoteBase has shut down.
+[RemoteBase](https://remotebase.io) has shut down.
 
 - - -
 
