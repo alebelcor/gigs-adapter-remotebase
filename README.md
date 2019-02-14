@@ -1,12 +1,14 @@
 # Deprecated
 
-RemoteBase has shut down. This package no longer works.
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2018.svg)
+
+RemoteBase has shut down.
 
 - - -
 
 # gigs-adapter-remotebase
 
-> A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote Base](https://remotebase.io)
+> A [gigs](https://github.com/alebelcor/gigs) adapter for [RemoteBase](https://remotebase.io)
 
 [![npm version](https://img.shields.io/npm/v/gigs-adapter-remotebase.svg)](https://npmjs.org/package/gigs-adapter-remotebase)
 [![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remotebase/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remotebase)
